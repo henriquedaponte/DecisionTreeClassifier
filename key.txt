@@ -1,0 +1,5 @@
+IngredientQuality = {Low:0, Medium:1, High:2}
+Cuisine = {Ethiopian:0, Japanese:1, Italian:2}
+ameiEatsApproved = {No:0, Yes:1}
+ChefQuality = {Unknown:0, Great:1}
+GoodRestaurant = {No:0, Yes:1}
